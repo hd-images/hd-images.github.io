@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /screenshot187.jpg/
